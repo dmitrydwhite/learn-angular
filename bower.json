@@ -1,0 +1,11 @@
+{
+  "name": "Readerick",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass": "~3.0.2"
+  },
+  "devDependencies": {
+  }
+}
